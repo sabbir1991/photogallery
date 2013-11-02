@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is a bug fixing. This is from Test branch
+=======
+This is a bug fixing. So enjoysdf
+>>>>>>> Chnge from master branch
